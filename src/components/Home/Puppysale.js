@@ -15,7 +15,7 @@ export default function Puppysale() {
     });
 
     const calculateTimeLeft = () => {
-        const targetDate = moment.tz('2024-01-29 12:00:00', 'America/New_York'); // Set your target date and time, and specify the time zone
+        const targetDate = moment.tz('2024-02-01 12:00:00', 'America/New_York'); // Set your target date and time, and specify the time zone
         const now = moment();
         const difference = targetDate - now;
 
@@ -123,7 +123,7 @@ export default function Puppysale() {
     {/*<img src={LogArtboard} className=' w-[267px] lg:w-[349px] h-[267px] lg:h-[349px] absolute left-[8px] sm:left-[-42px] xl:left-[-175px] bottom-[-93px] ' />*/}
             {/* <img src={coinsign} className=' w-[132px] sm:w-[148px] h-auto sm:h-[148px] absolute top-[-50px] sm:top-[-62px] right-[-10px] sm:right-[18px]  lg:hidden  ' />*/}
 
-                <div className="flex justify-center"> <button className="bg-[#F59332] border rounded-full  h-[60px] md   border-[#F59332] px-[32px] text-center  mt-[68px]">Join Presale</button> </div>
+                <div className="flex justify-center"><a href="https://www.pinksale.finance/launchpad/0xb57072dBF8410F256f29526112d020aB306c5d73?chain=ETH"> <button className="bg-[#F59332] text-white f-f-sm border rounded-full  h-[60px] md   border-[#F59332] px-[32px] text-center  my-[68px]">Join Presale</button></a> </div>
 
             </div>
         </div>
