@@ -116,7 +116,7 @@ export default function Puppysale() {
                     
         {/* <div className=' w-[237px] h-[44px] absolute top-[-35px] sm:top-[-30px] left-[-22px] sm:left-[51px] -z-10 bg-red ' > */}
         <div className=' begin f-f-m text-tiny md:text-base text-white p-[8px] rounded-[8px] absolute top-[-35px] sm:top-[-30px] left-[-22px] sm:left-[51px] -z-10 bg-red ' >
-        Puppysale will begin in
+        Puppysale will end in
         </div>
                 </div>
 
