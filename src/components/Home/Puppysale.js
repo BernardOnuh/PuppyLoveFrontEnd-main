@@ -41,7 +41,7 @@ export default function Puppysale() {
 
     return (
         <div className='w-[91%] xl:max-w-[1080px] mx-auto my-[96px] '>
-            <div className='relative p-4 sm:p-16 text-center  w-full h-[560px] sm:h-[601px] xl:w-[870px] lg:h-[516px] rounded-[50px] bg-black-darkest mx-auto  pup-crd  ' >
+            <div className='relative p-4 sm:p-16 text-center  w-full h-[560px] sm:h-[601px] xl:w-[870px] lg:h-[560px] rounded-[50px] bg-black-darkest mx-auto  pup-crd  ' >
                 <h2 className=' f-f-sm text-3xl lg:text-5xl pupysaletext mt-[7px] ' >PuppyLove</h2>
                 <h3 className=' f-f-sm text-3xl lg:text-5xl pupysaletext mt-[7px] '  >Presale is live</h3>
     <p className=' f-f-m text-tiny lg:text-base mt-6 pupysaletext'>It is an opportunity for you to become one of the biggest adopters of amazing puppies "For the Love of Puppies". </p>
