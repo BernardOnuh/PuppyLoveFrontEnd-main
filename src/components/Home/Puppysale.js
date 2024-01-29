@@ -121,9 +121,9 @@ export default function Puppysale() {
                 </div>
 
                 <img src={LogArtboard} className=' w-[267px] lg:w-[349px] h-[267px] lg:h-[349px] absolute left-[8px] sm:left-[-42px] xl:left-[-175px] bottom-[-93px] ' />
-                <img src={coinsign} className=' w-[132px] sm:w-[148px] h-auto sm:h-[148px] absolute top-[-50px] sm:top-[-62px] right-[-10px] sm:right-[18px]  lg:hidden  ' />
+            {/* <img src={coinsign} className=' w-[132px] sm:w-[148px] h-auto sm:h-[148px] absolute top-[-50px] sm:top-[-62px] right-[-10px] sm:right-[18px]  lg:hidden  ' />*/}
 
-                <div className="flex justify-center"> <button className="bg-[#F59332] border rounded-full h-[64px]  border-[#F59332] px-[32px] text-center  mt-[68px]">Join Presale</button> </div>
+                <div className="flex justify-center"> <button className="bg-[#F59332] border rounded-full  h-[60pxpx] md   border-[#F59332] px-[32px] text-center  mt-[68px]">Join Presale</button> </div>
 
             </div>
         </div>
