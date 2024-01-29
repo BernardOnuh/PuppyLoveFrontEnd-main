@@ -122,7 +122,7 @@ export default function Puppysale() {
 <img src={LogArtboard} className=' w-[183px] md:w-[191px] md:h-[191px] lg:w-[349px] h-[183px] lg:h-[349px] absolute right-[8px] sm:right-[-42px] xl:right-[-175px] bottom-[-93px] ' />
           <img src={coinsign} className=' w-[132px] sm:w-[148px] h-auto sm:h-[148px] absolute top-[-50px] sm:top-[-62px] left-[-10px] sm:left-[18px]  lg:hidden  ' />
 
-                <div className="flex justify-center"><a href="https://www.pinksale.finance/launchpad/0xb57072dBF8410F256f29526112d020aB306c5d73?chain=ETH"> <button className="bg-[#F59332] text-white f-f-sm border rounded-full  h-[60px] md   border-[#F59332] px-[32px] text-center  my-[68px]">Join Presale</button></a> </div>
+                <div className="flex justify-center z-10"><a href="https://www.pinksale.finance/launchpad/0xb57072dBF8410F256f29526112d020aB306c5d73?chain=ETH"> <button className="bg-[#F59332] text-white f-f-sm border rounded-full  h-[60px] md   border-[#F59332] px-[32px] text-center  my-[68px]">Join Presale</button></a> </div>
 
             </div>
         </div>
