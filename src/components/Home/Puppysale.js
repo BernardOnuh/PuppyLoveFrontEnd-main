@@ -115,7 +115,7 @@ export default function Puppysale() {
                     </ul>
                     
         {/* <div className=' w-[237px] h-[44px] absolute top-[-35px] sm:top-[-30px] left-[-22px] sm:left-[51px] -z-10 bg-red ' > */}
-        <div className=' begin f-f-m text-tiny md:text-base text-white p-[8px] rounded-[8px] absolute top-[-35px] sm:top-[-30px] left-[-22px] sm:left-[51px] -z-10 bg-red ' >
+        <div className=' begin f-f-m text-tiny md:text-base text-white p-[8px] rounded-[8px] absolute top-[-35px] sm:top-[-30px] left-[-22px] sm:left-[51px] -z-10 bg-[#F59332] ' >
         Puppysale will end in
         </div>
                 </div>
@@ -124,8 +124,9 @@ export default function Puppysale() {
                 <img src={coinsign} className=' w-[132px] sm:w-[148px] h-auto sm:h-[148px] absolute top-[-50px] sm:top-[-62px] right-[-10px] sm:right-[18px]  lg:hidden  ' />
 
 
-<button>Join Presale</button>
+
             </div>
+            <button className="bg-[#F59332] border border-[64px] border-[#F59332] mt-[68px]">Join Presale</button>
         </div>
     )
 }
