@@ -1,0 +1,134 @@
+.pup-crd{
+    box-shadow: 0px 39px 69.80000305175781px 0px #CB825017;
+}
+.pupysaletext{
+    background: linear-gradient(90.79deg, #F59331 -2.96%, #E91C24 100.62%);
+  color: transparent;
+  background-clip: text;
+}
+
+.timebr{
+    border: 1px solid rgba(211, 131, 76, 0.38);
+background: rgba(29, 29, 29, 0.30);
+backdrop-filter: blur(16.350000381469727px);
+}
+.strng-btn{
+    background: rgba(57, 57, 57, 0.82);
+}
+
+.cntrct-crd{
+    background:   rgba(57, 57, 57, 0.32);
+backdrop-filter: blur(23px);
+
+}
+.brdr-bg{
+    background: linear-gradient(180deg, rgba(19, 19, 19, 0) 0%, #131313 86.58%);
+    width: 100%;
+    height: 87px;
+    position: absolute;
+    bottom: 1px;
+}
+.pillerhvr:hover{
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0) 14.94%, rgba(14, 14, 14, 0.464381) 28.51%, rgba(23, 23, 23, 0.748555) 41.38%, rgba(19, 19, 19, 0.97) 100%) ;
+    background-size: cover ;
+    width: 100%;
+    height: 100%;
+    /* background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 14.94%, rgba(14, 14, 14, 0.46) 28.51%, rgba(23, 23, 23, 0.75) 41.38%, rgba(19, 19, 19, 0.97) 100%), url("../src/assets/images/Pillars1.svg"), lightgray 50% / cover no-repeat; */
+
+
+
+}
+
+.image-container {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .image-container img {
+    width: 100%;
+    /* height: auto; */
+    display: block;
+  }
+  
+  .image-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 110%;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 14.94%, rgba(14, 14, 14, 0.464381) 28.51%, rgba(23, 23, 23, 0.748555) 41.38%, rgba(19, 19, 19, 0.97) 100%);
+    opacity: 0; /* Initially hide the overlay */
+    transition: opacity 0.3s ease;
+  }
+  
+  /* Show the overlay on hover */
+  .image-container:hover .image-overlay {
+    opacity: 1;
+  }
+
+  .image-text {
+    position: absolute;
+    /* top: 50%; */
+    bottom: -13%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    text-align: center;
+    width: 95%;
+  }
+  .image-text-2 {
+    position: absolute;
+    /* top: 50%; */
+    bottom: -15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    text-align: center;
+    width: 95%;
+  }
+  
+  /* Show the text on hover */
+  .image-container:hover .image-text {
+    opacity: 1;
+  }
+  .image-container:hover .image-text-2 {
+    opacity: 1;
+  }
+
+
+  @media screen and (max-width: 1024px) {
+    .image-text {
+      
+        bottom:0%;
+    
+      }
+  }
+  @media screen and (max-width: 1024px) {
+    .image-text {
+      
+        bottom:-23%;
+    
+      }
+  }
+  @media screen and (max-width: 500px) {
+    .image-text-2 {
+      
+        bottom:-29%;
+    
+      }
+  }
+
+  .nav-bg-top{
+    background: rgba(112, 112, 112, 0.16);
+backdrop-filter: blur(12px);
+  }
+
+  .begin{
+    transform: rotate(-5.604deg);
+    justify-content: center;
+align-items: center;
+  }
