@@ -42,8 +42,8 @@ export default function Puppysale() {
     return (
         <div className='w-[91%] xl:max-w-[1080px] mx-auto my-[96px] '>
             <div className='relative p-4 sm:p-16 text-center  w-full h-[560px] sm:h-[601px] xl:w-[870px] lg:h-[700px] rounded-[50px] bg-black-darkest mx-auto  pup-crd  ' >
-                <h2 className=' f-f-sm text-3xl lg:text-5xl pupysaletext mt-[7px] ' >PuppyLove</h2>
-                <h3 className=' f-f-sm text-3xl lg:text-5xl pupysaletext mt-[7px] '  >Presale is live</h3>
+                <h2 className=' f-f-sm text-3xl lg:text-5xl pupysaletext mt-[7px] ' >PuppyLove  Presale is live</h2>
+               
     <p className=' f-f-m text-tiny lg:text-base mt-6 pupysaletext'>It is an opportunity for you to become one of the biggest adopters of amazing puppies "For the Love of Puppies". </p>
 
                 <h4 className=' f-f-sm text-base pupysaletext my-1  ' >“For the Love of Puppies”.</h4>
@@ -119,8 +119,8 @@ export default function Puppysale() {
         Puppysale will end in
         </div>
                 </div>
-<img src={LogArtboard} className=' w-[267px] lg:w-[349px] h-[267px] lg:h-[349px] absolute left-[8px] sm:left-[-42px] xl:left-[-175px] bottom-[-93px] ' />*/}
-          <img src={coinsign} className=' w-[132px] sm:w-[148px] h-auto sm:h-[148px] absolute top-[-50px] sm:top-[-62px] right-[-10px] sm:right-[18px]  lg:hidden  ' />*/}
+<img src={LogArtboard} className=' w-[267px] lg:w-[349px] h-[267px] lg:h-[349px] absolute left-[8px] sm:left-[-42px] xl:left-[-175px] bottom-[-93px] ' />
+          <img src={coinsign} className=' w-[132px] sm:w-[148px] h-auto sm:h-[148px] absolute top-[-50px] sm:top-[-62px] left-[-10px] sm:left-[18px]  lg:hidden  ' />
 
                 <div className="flex justify-center"><a href="https://www.pinksale.finance/launchpad/0xb57072dBF8410F256f29526112d020aB306c5d73?chain=ETH"> <button className="bg-[#F59332] text-white f-f-sm border rounded-full  h-[60px] md   border-[#F59332] px-[32px] text-center  my-[68px]">Join Presale</button></a> </div>
 
