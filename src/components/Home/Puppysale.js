@@ -44,7 +44,7 @@ export default function Puppysale() {
             <div className='relative p-4 sm:p-16 text-center  w-full h-[545px] sm:h-[446px] xl:w-[870px] lg:h-[516px] rounded-[50px] bg-black-darkest mx-auto  pup-crd  ' >
                 <h2 className=' f-f-sm text-3xl lg:text-5xl pupysaletext mt-[7px] ' >PuppyLove</h2>
                 <h3 className=' f-f-sm text-3xl lg:text-5xl pupysaletext mt-[7px] '  >Presale is live</h3>
-    <p className='puppysaletext f-f-m text-tiny lg:text-base mt-6'>It is an opportunity for you to become one of the biggest adopters of amazing puppies "For the Love of Puppies". </p>
+    <p className=' f-f-m text-tiny lg:text-base mt-6 pupysaletext'>It is an opportunity for you to become one of the biggest adopters of amazing puppies "For the Love of Puppies". </p>
 
                 <h4 className=' f-f-sm text-base pupysaletext my-1  ' >“For the Love of Puppies”.</h4>
 
@@ -124,7 +124,7 @@ export default function Puppysale() {
                 <img src={coinsign} className=' w-[132px] sm:w-[148px] h-auto sm:h-[148px] absolute top-[-50px] sm:top-[-62px] right-[-10px] sm:right-[18px]  lg:hidden  ' />
 
 
-
+<button>Join Presale</button>
             </div>
         </div>
     )
