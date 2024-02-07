@@ -27,24 +27,24 @@ export default function DrawerDefault({ open, setOpen }) {
         </div>
         <ul className=" pl-4 " >
           <li>
-            <a href="#Presale" onClick={closeDrawer} className=" f-f-m text-tiny text-black-dark  " >
-              Presale
+            <a href="https://twitter.com/Bernard_O1" onClick={closeDrawer} className=" f-f-m text-tiny text-black-dark  " >
+              Twitter
             </a>
           </li>
        
           <li className=" mt-6 " >
             <a href="#Audit" onClick={closeDrawer} className=" f-f-m text-tiny text-black-dark  " >
-              Audit
+              Projects
             </a>
           </li>
           <li className=" mt-6 " >
-            <a  href="https://drive.google.com/file/d/16e3M-ORNDLKlRyAVl30xZU-QTGkHKhXA/view" className=" f-f-m text-tiny text-black-dark  " >
-              Whitepaper
+            <a  href="" className=" f-f-m text-tiny text-black-dark  " >
+             Telegram
             </a>
           </li>
           <li className=" mt-6 " >
-            <a href="#Community" onClick={closeDrawer} className=" f-f-m text-tiny text-black-dark  " >
-              Community
+            <a href="https://github.com/BernardOnuh" onClick={closeDrawer} className=" f-f-m text-tiny text-black-dark  " >
+              Github
             </a>
           </li>
         </ul>
