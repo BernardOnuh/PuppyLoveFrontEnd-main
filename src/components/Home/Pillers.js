@@ -30,9 +30,11 @@ export default function Pillers() {
             </div>
 
             <div className=' absolute top-[26px] w-full  '  >
+              <a href="https://messi-rho.vercel.app/">
               <button href="https://messi-rho.vercel.app/" className=' strng-btn rounded-[58px] w-[223px] h-[52px] md:w-[257px]  md:h-[58px] text-white text-base f-f-b ' >
                 Lionel Messi
               </button>
+            </a>
             </div>
           </div>
         </div>
@@ -47,9 +49,11 @@ export default function Pillers() {
 
             </div>
             <div className=' absolute top-[26px] w-full  '  >
+            <a href="https://baby-jup.vercel.app/">
               <button href="https://baby-jup.vercel.app/" className=' strng-btn rounded-[58px] w-[256px] md:w-[290px]  h-[52px] md:h-[58px] text-white text-base f-f-b ' >
                 Baby Jupiter
               </button>
+            </a>
             </div>
           </div>
         </div>
@@ -64,9 +68,11 @@ export default function Pillers() {
 
             </div>
             <div className=' absolute top-[26px] w-full  '  >
+            <a href="https://baby-wen.vercel.app/">
               <button href="https://baby-wen.vercel.app/" className=' strng-btn rounded-[58px] w-[311px] md:w-[385px] lg:w-[340px] 2xl:w-[385px] h-[52px] md:h-[58px] text-white text-base f-f-b ' >
                 Baby Wen
               </button>
+            </a>
             </div>
           </div>
         </div>
@@ -84,9 +90,11 @@ export default function Pillers() {
             </div>
 
             <div className=' absolute top-[26px] w-full  '  >
+    <a href="https://dexter-tau.vercel.app/"> 
               <button className=' strng-btn rounded-[58px] w-[223px] h-[52px] md:w-[257px]  md:h-[58px] text-white text-base f-f-b ' >
-                Strong community
+                Dexter
               </button>
+    </a>
             </div>
           </div>
         </div>
@@ -96,13 +104,14 @@ export default function Pillers() {
               <img src={Pillars6} className=' rounded-[32px] object-cover w-full lg:w-[435px] h-[435px] mx-auto ' />
               <div class="image-overlay"></div>
               <div class="image-text-2">
-                <p className='f-f-m text-tiny text-white ' >Based on the consensus reached, PuppyLove will stand firmly on Innovative developers amongst humans to build cutting-edge blockchain utilities that would empower human population. PuppyLove uses this medium to invite Innovative developers within the community to come forward and volunteer in building blockchain utilities that would empower both the community and human population at large.</p>
+                <p className='f-f-m text-tiny text-white ' >Meet Dexter, the ultimate lab whiz-kid! He's got a secret lab behind a bookshelf – it's so undercover even James Bond would be jealous.</p>
               </div>
 
             </div>
             <div className=' absolute top-[26px] w-full  '  >
+    
               <button className=' strng-btn rounded-[58px] w-[256px] md:w-[290px]  h-[52px] md:h-[58px] text-white text-base f-f-b ' >
-                Innovative Developers
+               Dexter
               </button>
             </div>
           </div>
@@ -113,15 +122,16 @@ export default function Pillers() {
               <img src={Pillars3} className=' rounded-[32px] object-cover w-full lg:w-[435px] h-[435px] mx-auto ' />
               <div class="image-overlay"></div>
               <div class="image-text">
-                <p className='f-f-m text-tiny text-white ' >PuppyLove will support puppies and human kids. A good percentage of the project is dedicated towards this - Support for puppies shelters and children causes. The community will be given opportunity from time to time to vote on charity this Support should go to. The support will go to charities that truly need the support anywhere in the world.</p>
+                <p className='f-f-m text-tiny text-white ' >Honk In Hat has landed on SOL! Meme token inspired by $HONK, where the whimsy of memes meets the magic of Solana.</p>
               </div>
 
             </div>
             <div className=' absolute top-[26px] w-full  '  >
+            <a href="https://duck-wheat.vercel.app/">
               <button className=' strng-btn rounded-[58px] w-[311px] md:w-[385px] lg:w-[340px] 2xl:w-[385px] h-[52px] md:h-[58px] text-white text-base f-f-b ' >
-                <span className=' hidden md:block' > Puppy care and children support </span>
-                <span className=' md:hidden ' >Puppycare and Kids support</span>
+                HonkIn Hat
               </button>
+            </a>
             </div>
           </div>
         </div>
