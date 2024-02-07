@@ -3,8 +3,8 @@ import Pillars1 from '../../assets/images/messi.png'
 import Pillars2 from '../../assets/images/babywen.png'
 import Pillars3 from '../../assets/images/hen.png'
 import Pillars4 from '../../assets/images/dexterhero.svg'
-import Pillars5 from '../../assets/images/baby jupiter 2.svg'
-import Pillars6 from '../../assets/images/hen.png'
+import Pillars5 from '../../assets/images/png 22.svg'
+import Pillars6 from '../../assets/images/justape.png'
 
 
 
