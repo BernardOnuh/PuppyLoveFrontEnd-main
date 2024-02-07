@@ -84,7 +84,7 @@ export default function Pillers() {
               <img src={Pillars4} className=' rounded-[32px] object-cover w-full lg:w-[435px] h-[435px] mx-auto ' />
               <div class="image-overlay"></div>
               <div class="image-text">
-                <p className='f-f-m text-tiny text-white ' >Success of PuppyLove will depend on its community. As reached in consensus, PuppyLove will stand on united strength of its community as well as that of human population. The puppies have left Koja to join human population, humans can't afford to fail them. United we stand to make PuppyLove great like their parents - Doge, ShibInu, Floki and few others.</p>
+                <p className='f-f-m text-tiny text-white ' > Meet Dexter, the ultimate lab whiz-kid! He's got a secret lab behind a bookshelf – it's so undercover even James Bond would be jealous.</p>
               </div>
 
             </div>
@@ -104,15 +104,17 @@ export default function Pillers() {
               <img src={Pillars6} className=' rounded-[32px] object-cover w-full lg:w-[435px] h-[435px] mx-auto ' />
               <div class="image-overlay"></div>
               <div class="image-text-2">
-                <p className='f-f-m text-tiny text-white ' >Meet Dexter, the ultimate lab whiz-kid! He's got a secret lab behind a bookshelf – it's so undercover even James Bond would be jealous.</p>
+                <p className='f-f-m text-tiny text-white ' >It’s more than just bananas - It’s your ticket to the wild world of #JustApe in the Base ecosystemZero talks, Just Ape
+</p>
               </div>
 
             </div>
             <div className=' absolute top-[26px] w-full  '  >
-    
+    <a href="https://justape-phi.vercel.app/">
               <button className=' strng-btn rounded-[58px] w-[256px] md:w-[290px]  h-[52px] md:h-[58px] text-white text-base f-f-b ' >
-               Dexter
+               JustApe
               </button>
+     </a>
             </div>
           </div>
         </div>
