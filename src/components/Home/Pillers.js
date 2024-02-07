@@ -1,7 +1,7 @@
 import React from 'react'
-import Pillars1 from '../../assets/images/Pillars1.svg'
-import Pillars2 from '../../assets/images/Pillars2.svg'
-import Pillars3 from '../../assets/images/Pillars3.svg'
+import Pillars1 from '../../assets/images/messi.png'
+import Pillars2 from '../../assets/images/babywen.png'
+import Pillars3 from '../../assets/images/hen.png'
 
 
 
