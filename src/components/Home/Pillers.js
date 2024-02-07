@@ -2,6 +2,9 @@ import React from 'react'
 import Pillars1 from '../../assets/images/messi.png'
 import Pillars2 from '../../assets/images/babywen.png'
 import Pillars3 from '../../assets/images/hen.png'
+import Pillars3 from '../../assets/images/dexterhero.svg'
+import Pillars3 from '../../assets/images/baby jupiter 2.svg'
+import Pillars3 from '../../assets/images/hen.png'
 
 
 
