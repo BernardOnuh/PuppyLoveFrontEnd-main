@@ -29,30 +29,9 @@ export default function index() {
     };
     return (
         <div className=' relative' >
-            <Header />
-            <Koja />
-            <Storytime />
-            <div id='Presale' >
-                <Puppysale />
-            </div>
-            <Features />
-            <Tokenomics />
-            <Informationcard />
-            <Buypuppy />
-            <Mission />
+          <div id='Audit' >
             <Pillers />
-            <Roadmap />
-            <div id='Audit' >
-                <Contractpuppy />
-            </div>
-            <Team/>
-            <Partner />
-            <div id='Community' >
-                <Community />
-            </div>
-            <Faq />
-            <Footer />
-
+        </div>
             <button onClick={scrollToTop} className='  absolute bottom-[735px] sm:bottom-[587px] right-[27px] sm:right-[96px] ' >
                 <img src={Buttonup} className=' w-[54px] h-[54px] ' />
             </button>
