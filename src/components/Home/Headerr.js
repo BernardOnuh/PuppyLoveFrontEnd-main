@@ -38,7 +38,7 @@ export default function Header() {
           <div className="   flex flex-wrap items-center justify-between mx-auto py-3">
             <a href="" className="flex items-center space-x-3 rtl:space-x-reverse">
   {/*<img src={Logo} className=" w-[48px] h-[48px] " alt="Flowbite Logo" />*/}
-              <span className="self-center f-f-sm text-tiny  whitespace-nowrap text-white ">PuppyLove</span>
+              <span className="self-center f-f-sm text-tiny  whitespace-nowrap text-white ">Bernard Degens</span>
             </a>
             <button onClick={openDrawer} data-collapse-toggle="navbar-default" type="button" className=" mr-3 inline-flex items-center  justify-center text-sm  md:hidden " aria-controls="navbar-default" aria-expanded="false">
               <span className="sr-only">Open main menu</span>
