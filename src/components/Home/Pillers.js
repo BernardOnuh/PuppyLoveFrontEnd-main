@@ -32,7 +32,7 @@ export default function Pillers() {
             <div className=' absolute top-[26px] w-full  '  >
               <a href="https://messi-rho.vercel.app/">
               <button href="https://messi-rho.vercel.app/" className=' strng-btn rounded-[58px] w-[223px] h-[52px] md:w-[257px]  md:h-[58px] text-white text-base f-f-b ' >
-                Lionel Messi
+                Lionel Messi <span className="f-f-m text-tiny text-primary">(Click Me)</span>
               </button>
             </a>
             </div>
@@ -51,7 +51,7 @@ export default function Pillers() {
             <div className=' absolute top-[26px] w-full  '  >
             <a href="https://baby-jup.vercel.app/">
               <button href="https://baby-jup.vercel.app/" className=' strng-btn rounded-[58px] w-[256px] md:w-[290px]  h-[52px] md:h-[58px] text-white text-base f-f-b ' >
-                Baby Jupiter
+                Baby Jupiter <span className="f-f-m text-tiny text-primary">(Click Me)</span>
               </button>
             </a>
             </div>
@@ -70,7 +70,7 @@ export default function Pillers() {
             <div className=' absolute top-[26px] w-full  '  >
             <a href="https://baby-wen.vercel.app/">
               <button href="https://baby-wen.vercel.app/" className=' strng-btn rounded-[58px] w-[311px] md:w-[385px] lg:w-[340px] 2xl:w-[385px] h-[52px] md:h-[58px] text-white text-base f-f-b ' >
-                Baby Wen
+                Baby Wen <span className="f-f-m text-tiny text-primary">(Click Me)</span>
               </button>
             </a>
             </div>
@@ -92,7 +92,7 @@ export default function Pillers() {
             <div className=' absolute top-[26px] w-full  '  >
     <a href="https://dexter-tau.vercel.app/"> 
               <button className=' strng-btn rounded-[58px] w-[223px] h-[52px] md:w-[257px]  md:h-[58px] text-white text-base f-f-b ' >
-                Dexter
+                Dexter <span className="f-f-m text-tiny text-primary">(Click Me)</span>
               </button>
     </a>
             </div>
@@ -112,7 +112,7 @@ export default function Pillers() {
             <div className=' absolute top-[26px] w-full  '  >
     <a href="https://justape-phi.vercel.app/">
               <button className=' strng-btn rounded-[58px] w-[256px] md:w-[290px]  h-[52px] md:h-[58px] text-white text-base f-f-b ' >
-               JustApe
+               JustApe <span className="f-f-m text-tiny text-primary">(Click Me)</span>
               </button>
      </a>
             </div>
@@ -131,7 +131,7 @@ export default function Pillers() {
             <div className=' absolute top-[26px] w-full  '  >
             <a href="https://duck-wheat.vercel.app/">
               <button className=' strng-btn rounded-[58px] w-[311px] md:w-[385px] lg:w-[340px] 2xl:w-[385px] h-[52px] md:h-[58px] text-white text-base f-f-b ' >
-                HonkIn Hat
+                HonkIn Hat <span className="f-f-m text-tiny text-primary">(Click Me)</span>
               </button>
             </a>
             </div>
