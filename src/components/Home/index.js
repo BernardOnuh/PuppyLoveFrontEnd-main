@@ -29,6 +29,7 @@ export default function index() {
     };
     return (
         <div className=' relative' >
+        <Header />
           <div id='Audit' >
             <Pillers />
         </div>
