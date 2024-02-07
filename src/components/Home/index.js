@@ -33,7 +33,7 @@ export default function index() {
           <div id='Audit' >
             <Pillers />
         </div>
-            <button onClick={scrollToTop} className='  absolute bottom-[735px] sm:bottom-[587px] right-[27px] sm:right-[96px] ' >
+            <button onClick={scrollToTop} className='  absolute bottom-[200px] sm:bottom-[587px] right-[27px] sm:right-[96px] ' >
                 <img src={Buttonup} className=' w-[54px] h-[54px] ' />
             </button>
         </div>
