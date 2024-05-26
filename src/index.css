@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+  scroll-behavior: smooth;
+  
+}
+body {
+  margin: 0;
+  padding: 0;
+  background:#131313;
+}
+
+
+@font-face {
+  font-family: Poppins-Bold;
+  src: url("./assets/fontfamily/Poppins-Bold.ttf");
+}
+@font-face {
+  font-family:Poppins-Light;
+  src: url("./assets/fontfamily/Poppins-Light.ttf");
+}
+@font-face {
+  font-family:Poppins-Medium;
+  src: url("./assets/fontfamily/Poppins-Medium.ttf");
+}
+@font-face {
+  font-family:Poppins-Regular;
+  src: url("./assets/fontfamily/Poppins-Regular.ttf");
+}
+@font-face {
+  font-family:Poppins-SemiBold;
+  src: url("./assets/fontfamily/Poppins-SemiBold.ttf");
+}
+@font-face {
+  font-family:Preahvihear-Regular;
+  src: url("./assets/fontfamily/Preahvihear-Regular.ttf");
+}
+@font-face {
+  font-family:Bouncy;
+  src: url("./assets/fontfamily/Bouncy.otf");
+}
+
+.f-f-r{
+  font-family:Poppins-Regular;
+}
+.f-f-r-pr{
+  font-family:Preahvihear-Regular;
+}
+
+.f-f-b{
+  font-family: Poppins-Bold;
+}
+.f-f-li{
+  font-family:Poppins-Light;
+}
+.f-f-m{
+  font-family:Poppins-Medium;
+}
+.f-f-sm{
+  font-family:Poppins-SemiBold;
+}
+.f-f-r-b{
+  font-family:Bouncy;
+}
